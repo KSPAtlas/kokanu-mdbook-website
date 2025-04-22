@@ -1,4 +1,4 @@
-<div style="background-color:rgb(13 23 66);padding:10px 20px 0px;display:flex;justify-content:space-between">
+<div style="background-color:rgb(13 23 66);padding:10px 20px 0px;display:flex;justify-content:space-between;gap:0px 30px;flex-wrap:wrap">
 <img src="images/banner.png" alt="Kokanu Banner">
 <h1 style="color:white">Kokanu</h1>
 </div>
