@@ -1,4 +1,8 @@
-# Kokanu
+<div style="background-color:rgb(13 23 66);padding:10px 20px 0px;display:flex;justify-content:space-between">
+<img src="images/banner.png" alt="Kokanu Banner">
+<h1 style="color:white">Kokanu</h1>
+</div>
+
 
 Kokanu is a sister language to the minimalist constructed language Toki Pona. Toki Pona utilizes minimalism in the construction of its vocabulary and grammar in order to fulfill certain philosophical and artistic principles. A side effect of its minimalism, however, is that it is by far easier to learn than the vast majority of other languages, both natural and constructed.
 
